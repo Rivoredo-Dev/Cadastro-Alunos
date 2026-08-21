@@ -1,4 +1,4 @@
-# 🎓 Sistema de Cadastro de Alunos
+#  Sistema de Cadastro de Alunos
 
 Este é um sistema de gerenciamento acadêmico desenvolvido em Java, focado na aplicação prática de conceitos de **Programação Orientada a Objetos (POO)**, encapsulamento e modularidade por meio do uso de interfaces.
 
@@ -6,7 +6,7 @@ O projeto adota uma arquitetura bem definida para separar as responsabilidades, 
 
 ---
 
-## 👨‍💻 Autores
+##  Autores
 * **Guilherme Pereira de Rivoredo**
 * **João Batistella da Costa**
 * **Pedro Henrique Freire Pereira**
@@ -17,7 +17,7 @@ O projeto adota uma arquitetura bem definida para separar as responsabilidades, 
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 * **Inserção com Validação Estrita:** Cadastro de alunos coletando Nome, Idade (com validação entre 1 e 120 anos), RA (Registro Acadêmico), Curso e Semestre (com validação entre 1 e 12).
 * **Prevenção de Duplicidade:** O sistema impede o cadastro de mais de um aluno com o mesmo número de RA.
@@ -28,7 +28,7 @@ O projeto adota uma arquitetura bem definida para separar as responsabilidades, 
 
 ---
 
-## 🏗️ Estrutura do Projeto
+##  Estrutura do Projeto
 
 O sistema é baseado em contratos (interfaces), o que reduz drasticamente o acoplamento entre os componentes:
 
@@ -40,7 +40,7 @@ O sistema é baseado em contratos (interfaces), o que reduz drasticamente o acop
 
 ---
 
-## 🛠️ Conceitos de POO Aplicados
+##  Conceitos de POO Aplicados
 
 * **Abstração:** Modelagem cuidadosa da entidade `Aluno` e das operações do sistema.
 * **Encapsulamento:** Proteção dos atributos das classes através de modificadores de acesso privados e métodos públicos de manipulação.
@@ -48,7 +48,7 @@ O sistema é baseado em contratos (interfaces), o que reduz drasticamente o acop
 
 ---
 
-## 🏁 Como Executar
+##  Como Executar
 
 ### Pré-requisitos
 Certifique-se de ter o **Java Development Kit (JDK 11 ou superior)** instalado na sua máquina e configurado corretamente no `PATH` do sistema.
